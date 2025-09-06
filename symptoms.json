@@ -1,0 +1,26 @@
+{
+  "id": "symptoms-entity-id",
+  "name": "symptoms",
+  "isOverridable": true,
+  "isEnum": false,
+  "automatedExpansion": true,
+  "entries": [
+    {
+      "value": "diabetes",
+      "synonyms": ["frequent urination", "excessive thirst", "fatigue", "blurred vision"]
+    },
+    {
+      "value": "cancer",
+      "synonyms": ["unexplained weight loss", "lumps", "chronic fatigue", "night sweats"]
+    },
+    {
+      "value": "asthma",
+      "synonyms": ["shortness of breath", "chest tightness", "coughing", "wheezing"]
+    },
+    {
+      "value": "hypertension",
+      "synonyms": ["headache", "dizziness", "nosebleeds", "blurred vision"]
+    },
+    {
+      "value": "tuberculosis",
+      "synonyms": ["persistent cough", "chest pain", "fever", "night sweats", "weight loss"]
