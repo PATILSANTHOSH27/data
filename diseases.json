@@ -1,0 +1,49 @@
+{
+  "id": "disease-entity-id",
+  "name": "disease",
+  "isOverridable": true,
+  "isEnum": false,
+  "automatedExpansion": true,
+  "entries": [
+    {
+      "value": "diabetes",
+      "synonyms": ["sugar disease", "high blood sugar", "diabetes mellitus"]
+    },
+    {
+      "value": "cancer",
+      "synonyms": ["tumor", "carcinoma", "malignant growth"]
+    },
+    {
+      "value": "asthma",
+      "synonyms": ["breathing problem", "wheezing", "asthmatic"]
+    },
+    {
+      "value": "hypertension",
+      "synonyms": ["high blood pressure", "BP", "hypertensive"]
+    },
+    {
+      "value": "tuberculosis",
+      "synonyms": ["TB", "tubercle infection"]
+    },
+    {
+      "value": "malaria",
+      "synonyms": ["mosquito fever", "plasmodium infection"]
+    },
+    {
+      "value": "hepatitis",
+      "synonyms": ["liver infection", "hep"]
+    },
+    {
+      "value": "arthritis",
+      "synonyms": ["joint pain", "osteoarthritis", "rheumatoid arthritis"]
+    },
+    {
+      "value": "pneumonia",
+      "synonyms": ["lung infection", "respiratory infection"]
+    },
+    {
+      "value": "migraine",
+      "synonyms": ["severe headache", "chronic headache"]
+    }
+  ]
+}
