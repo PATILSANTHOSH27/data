@@ -8,7 +8,7 @@ app = Flask(__name__)
 # GitHub raw URLs (replace with your actual repo + branch)
 DISEASES_URL = "https://raw.githubusercontent.com/PATILSANTHOSH27/data/main/diseases.json"
 SYMPTOMS_URL = 
-PREVENTIONS_URL = 
+PREVENTIONS_URL = "https://raw.githubusercontent.com/PATILSANTHOSH27/data/main/preventions.json"
 
 
 def load_json_from_url(url):
