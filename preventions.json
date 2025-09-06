@@ -1,0 +1,26 @@
+{
+  "id": "preventions-entity-id",
+  "name": "preventions",
+  "isOverridable": true,
+  "isEnum": false,
+  "automatedExpansion": true,
+  "entries": [
+    {
+      "value": "diabetes",
+      "synonyms": ["healthy diet", "regular exercise", "maintain healthy weight", "limit sugar intake"]
+    },
+    {
+      "value": "cancer",
+      "synonyms": ["avoid smoking", "eat a balanced diet", "regular screenings", "limit alcohol", "use sunscreen"]
+    },
+    {
+      "value": "asthma",
+      "synonyms": ["avoid allergens", "use inhalers", "stay away from smoke", "regular checkups"]
+    },
+    {
+      "value": "hypertension",
+      "synonyms": ["low-salt diet", "regular exercise", "stress management", "avoid excess alcohol"]
+    },
+    {
+      "value": "tuberculosis",
+      "synonyms": ["get vaccinated (BCG)", "avoid contact w]()
