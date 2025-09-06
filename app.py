@@ -6,7 +6,7 @@ from flask import Flask, request, jsonify
 app = Flask(__name__)
 
 # GitHub raw URLs (replace with your actual repo + branch)
-DISEASES_URL = 
+DISEASES_URL = "https://raw.githubusercontent.com/PATILSANTHOSH27/data/main/diseases.json"
 SYMPTOMS_URL = 
 PREVENTIONS_URL = 
 
